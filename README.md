@@ -1,5 +1,5 @@
-# ElementUIAdmin Lucky养成计划
-Lucky养成计划<br/>
+# ElementUIAdmin
+# Lucky养成计划
 每天前进一小步，技术前进一大步<br/>
 
 ## Good Luck
@@ -11,7 +11,6 @@ Lucky养成计划<br/>
 得失也不低头<br/>
 或喜或悲<br/>
 身后有我伴着你<br/>
-
 <br/><br/>
 
 ## Project setup
