@@ -1,9 +1,14 @@
 # ElementUIAdmin
+养成计划，明天前进一小步，技术前进一大步
 
-<br/>
-
-## Demo Preview
-<a href="https://imxiaoer.github.io/ElementUIAdmin/dist/index" target="_blank">https://imxiaoer.github.io/ElementUIAdmin/dist/index</a>
+愿似比风中劲草，
+仰望前路
+基础要打得好
+就算失足跌倒
+即刻企高
+得失也不低头
+或喜或悲
+身后有我伴着你
 
 <br/><br/>
 
