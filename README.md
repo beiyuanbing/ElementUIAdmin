@@ -1,14 +1,14 @@
 # ElementUIAdmin
 养成计划，明天前进一小步，技术前进一大步
 
-愿似比风中劲草，
-仰望前路
-基础要打得好
-就算失足跌倒
-即刻企高
-得失也不低头
-或喜或悲
-身后有我伴着你
+愿似比风中劲草<br/>
+仰望前路<br/>
+基础要打得好<br/>
+就算失足跌倒<br/>
+即刻企高<br/>
+得失也不低头<br/>
+或喜或悲<br/>
+身后有我伴着你<br/>
 
 <br/><br/>
 
@@ -42,12 +42,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <br/><br/><br/>
 
-## Project Screenshots
-
-![screenshot-login](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-login.png)
-
-![screenshot-users](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-users.png)
-
-![screenshot-articles](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-articles.png)
-
-![screenshot-echarts](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-charts.png)
