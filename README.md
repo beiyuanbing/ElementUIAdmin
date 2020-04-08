@@ -1,6 +1,9 @@
-# ElementUIAdmin
-养成计划，明天前进一小步，技术前进一大步
+# ElementUIAdmin Lucky养成计划
+Lucky养成计划<br/>
+每天前进一小步，技术前进一大步<br/>
 
+## Good Luck
+```
 愿似比风中劲草<br/>
 仰望前路<br/>
 基础要打得好<br/>
@@ -9,6 +12,7 @@
 得失也不低头<br/>
 或喜或悲<br/>
 身后有我伴着你<br/>
+```
 
 <br/><br/>
 
@@ -36,9 +40,6 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <br/><br/><br/>
 
